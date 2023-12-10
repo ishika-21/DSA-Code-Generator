@@ -1,2 +1,3 @@
-DSA-Code-Generator
-Developed an application that uses machine learning to generate code snippets based on natural language descriptions provided by the user. The project aimed to create an AI-based solution that’d help developers reduce the time and effort required to write code for their applications. The GPT-3 prompt was engineered in the backend, ie, the user would just have to write the questions. The tech stack includes Python, OpenAI API (specifically GPT-3), and ReactJS.
+# buildspace 
+### Welcome 👋
+This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
