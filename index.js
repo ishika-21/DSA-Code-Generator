@@ -96,7 +96,7 @@ const Home = () => {
           rel="noreferrer"
         >
           <div className="badge">
-            <p>Made by: Aakriti Roshan and Ishika Chaudhary</p>
+            <p>Made by:Ishika Chaudhary</p>
           </div>
         </a>
       </div>
